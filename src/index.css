@@ -1,13 +1,37 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.btn-start {
+  border: 0.1rem solid red;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  color: red;
+  background-color: white;
+  transition: all 0.1s ease-in-out;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.btn-start-dice {
+  display: inline-block;
+  margin-right: 0.5rem;
+}
+
+.btn-start:hover {
+  background-color: red;
+  color: white;
+}
+
+.food-item {
+  border: 0.1rem solid transparent;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  padding: 0.2rem;
+  margin-bottom: 0.2rem;
+  transition: all 0.03s ease-in-out;
+}
+
+.food-item:hover {
+  background-color: red;
+  color: white;
+}
+
+.food-item-chose {
+  background-color: red;
+  color: white;
 }
