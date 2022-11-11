@@ -1,7 +1,7 @@
 {
   "name": "chisha",
   "version": "0.1.0",
-  "homepage": "https://LemonKnockDogStudio.github.io/ChiSha",
+  "homepage": "https://LemonKnockDogStudio.github.io/chisha",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
