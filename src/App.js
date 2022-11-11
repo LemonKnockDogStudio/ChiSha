@@ -23,13 +23,8 @@ class App extends Component {
   render() {
     return (
       <React.Fragment>
-        <nav className="navbar bg-light">
-          <div className="container-fluid">
-            <a className="navbar-brand" href="#">
-              {/* <img src="/images/dog.svg" alt="Logo" className="d-inline-block align-text-top"/> */}
-              不知道吃啥
-            </a>
-          </div>
+        <nav className="navbar">
+          不知道吃啥
         </nav>
         <main className="container">
           <FoodList
@@ -41,7 +36,7 @@ class App extends Component {
             className="btn-start"
           >
             <span className="btn-start-dice">🎲</span>
-           吃！
+            吃！
           </button>
         </main>
       </React.Fragment>
