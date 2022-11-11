@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ChiSha/static/css/main.b19dd3df.css",
-    "main.js": "/ChiSha/static/js/main.a462f3cd.js",
-    "index.html": "/ChiSha/index.html",
-    "main.b19dd3df.css.map": "/ChiSha/static/css/main.b19dd3df.css.map",
-    "main.a462f3cd.js.map": "/ChiSha/static/js/main.a462f3cd.js.map"
+    "main.css": "/chisha/static/css/main.b19dd3df.css",
+    "main.js": "/chisha/static/js/main.a462f3cd.js",
+    "index.html": "/chisha/index.html",
+    "main.b19dd3df.css.map": "/chisha/static/css/main.b19dd3df.css.map",
+    "main.a462f3cd.js.map": "/chisha/static/js/main.a462f3cd.js.map"
   },
   "entrypoints": [
     "static/css/main.b19dd3df.css",
